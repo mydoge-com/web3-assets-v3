@@ -43,3 +43,6 @@ next-env.d.ts
 # generated static assets (synced from src/assets by scripts/sync-icons.ts)
 /public/assets
 
+# generated assets index (generated at build time)
+/src/lib/assets-index.ts
+
