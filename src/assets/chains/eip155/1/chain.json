@@ -1,0 +1,5 @@
+{
+  "chainId": "eip155:1",
+  "name": "Ethereum",
+  "icon": "/assets/chains/eip155/1/chain.svg"
+}

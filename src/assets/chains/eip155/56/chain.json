@@ -1,0 +1,5 @@
+{
+  "chainId": "eip155:56",
+  "name": "BSC",
+  "icon": "/assets/chains/eip155/56/chain.svg"
+}
