@@ -1,0 +1,12 @@
+{
+  "id": "kraken",
+  "name": "Kraken Wallet",
+  "namespace": "",
+  "iconBackground": "#FFD8EA",
+  "downloadUrls": {
+    "ios": "https://apps.apple.com/us/app/kraken-wallet/id1626327149",
+    "mobile": "https://kraken.com/wallet",
+    "qrCode": "https://kraken.com/wallet"
+  },
+  "icon": "/assets/wallets/kraken/wallet.svg"
+}

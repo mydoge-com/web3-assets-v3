@@ -1,0 +1,13 @@
+{
+  "id": "valora",
+  "name": "Valora",
+  "namespace": "",
+  "iconBackground": "#FFFFFF",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=co.clabs.valora",
+    "ios": "https://apps.apple.com/app/id1520414263?mt=8",
+    "mobile": "https://valora.xyz",
+    "qrCode": "https://valora.xyz"
+  },
+  "icon": "/assets/wallets/valora/wallet.svg"
+}

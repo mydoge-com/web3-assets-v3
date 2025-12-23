@@ -1,0 +1,13 @@
+{
+  "id": "ready",
+  "name": "Ready",
+  "namespace": "",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=im.argent.contractwalletclient",
+    "ios": "https://apps.apple.com/us/app/argent/id1358741926",
+    "mobile": "https://www.ready.co/app",
+    "qrCode": "https://www.ready.co/app"
+  },
+  "icon": "/assets/wallets/ready/wallet.svg"
+}

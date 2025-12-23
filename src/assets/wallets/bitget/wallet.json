@@ -1,0 +1,23 @@
+{
+  "id": "bitget",
+  "name": "Bitget Wallet",
+  "namespace": "bitkeep.ethereum",
+  "rdns": "com.bitget.web3",
+  "iconAccent": "#f6851a",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "android": "https://web3.bitget.com/en/wallet-download?type=0",
+    "ios": "https://apps.apple.com/app/bitkeep/id1395301115",
+    "mobile": "https://web3.bitget.com/en/wallet-download?type=2",
+    "qrCode": "https://web3.bitget.com/en/wallet-download",
+    "chrome": "https://chrome.google.com/webstore/detail/bitkeep-crypto-nft-wallet/jiidiaalihmmhddjgbnbgdfflelocpak",
+    "browserExtension": "https://web3.bitget.com/en/wallet-download"
+  },
+  "solana": {
+    "namespace": "bitkeep.solana"
+  },
+  "aptos": {
+    "namespace": "bitkeep.aptos"
+  },
+  "icon": "/assets/wallets/bitget/wallet.svg"
+}

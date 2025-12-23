@@ -1,0 +1,14 @@
+{
+  "id": "nova",
+  "name": "Nova Wallet",
+  "namespace": "",
+  "rdns": "io.novawallet",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=io.novafoundation.nova.market",
+    "ios": "https://apps.apple.com/us/app/nova-polkadot-wallet/id1597119355",
+    "mobile": "https://nova-wallet.app.link",
+    "qrCode": "https://nova-wallet.app.link"
+  },
+  "icon": "/assets/wallets/nova/wallet.svg"
+}

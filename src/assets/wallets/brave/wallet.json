@@ -1,0 +1,10 @@
+{
+  "id": "brave",
+  "name": "Brave Wallet",
+  "namespace": "",
+  "rdns": "com.brave.wallet",
+  "flag": "isBraveWallet",
+  "iconBackground": "#fff",
+  "downloadUrls": {},
+  "icon": "/assets/wallets/brave/wallet.svg"
+}

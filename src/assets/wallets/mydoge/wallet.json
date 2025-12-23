@@ -1,0 +1,15 @@
+{
+  "id": "mydoge",
+  "name": "MyDoge",
+  "namespace": "mydoge.ethereum",
+  "rdns": "com.mydoge",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "chrome": "https://chromewebstore.google.com/detail/mydoge-dogecoin-wallet/mljponncmhdlacmjbophphkbgcgjdnff",
+    "browserExtension": "https://www.mydoge.com/"
+  },
+  "solana": {
+    "namespace": "mydoge.solana"
+  },
+  "icon": "/assets/wallets/mydoge/wallet.svg"
+}

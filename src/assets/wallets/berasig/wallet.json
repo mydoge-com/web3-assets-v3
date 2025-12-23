@@ -1,0 +1,15 @@
+{
+  "id": "berasig",
+  "name": "BeraSig",
+  "namespace": "berasig.ethereum",
+  "rdns": "app.berasig",
+  "iconBackground": "#ffffff",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=io.berasig.ios",
+    "ios": "https://apps.apple.com/us/app/berasig-wallet-on-berachain/id6502052535",
+    "mobile": "https://berasig.com",
+    "qrCode": "https://berasig.com",
+    "browserExtension": "https://chromewebstore.google.com/detail/berasig/ckedkkegjbflcfblcjklibnedmfjppbj"
+  },
+  "icon": "/assets/wallets/berasig/wallet.svg"
+}

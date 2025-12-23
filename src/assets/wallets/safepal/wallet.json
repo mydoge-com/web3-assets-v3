@@ -1,0 +1,17 @@
+{
+  "id": "safepal",
+  "name": "SafePal Wallet",
+  "namespace": "safepalProvider",
+  "flag": "isSafePal",
+  "iconAccent": "#3375BB",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=io.safepal.wallet",
+    "ios": "https://apps.apple.com/app/apple-store/id1548297139",
+    "mobile": "https://www.safepal.com/en/download",
+    "qrCode": "https://www.safepal.com/en/download",
+    "chrome": "https://chrome.google.com/webstore/detail/safepal-extension-wallet/lgmpcpglpngdoalbgeoldeajfclnhafa",
+    "browserExtension": "https://www.safepal.com/download?product=2"
+  },
+  "icon": "/assets/wallets/safepal/wallet.svg"
+}

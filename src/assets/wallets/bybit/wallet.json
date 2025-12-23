@@ -1,0 +1,16 @@
+{
+  "id": "bybit",
+  "name": "Bybit Wallet",
+  "namespace": "bybitWallet",
+  "rdns": "com.bybit",
+  "iconBackground": "#000000",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=com.bybit.app",
+    "ios": "https://apps.apple.com/us/app/bybit-buy-trade-crypto/id1488296980",
+    "mobile": "https://www.bybit.com/en/web3",
+    "qrCode": "https://www.bybit.com/en/web3",
+    "chrome": "https://chromewebstore.google.com/detail/bybit-wallet/pdliaogehgdbhbnmkklieghmmjkpigpa",
+    "browserExtension": "https://www.bybit.com/en/web3"
+  },
+  "icon": "/assets/wallets/bybit/wallet.svg"
+}

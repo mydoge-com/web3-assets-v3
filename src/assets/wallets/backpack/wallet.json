@@ -1,0 +1,16 @@
+{
+  "id": "backpack",
+  "name": "Backpack",
+  "namespace": "backpack.ethereum",
+  "rdns": "app.backpack.mobile",
+  "iconBackground": "#0C0D10",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=app.backpack.mobile",
+    "ios": "https://apps.apple.com/app/backpack-wallet-exchange/id6445964121",
+    "mobile": "https://backpack.app/download",
+    "qrCode": "https://backpack.app/download",
+    "chrome": "https://chromewebstore.google.com/detail/backpack/aflkmfhebedbjioipglgcbcmnbpgliof",
+    "browserExtension": "https://backpack.app/download"
+  },
+  "icon": "/assets/wallets/backpack/wallet.svg"
+}

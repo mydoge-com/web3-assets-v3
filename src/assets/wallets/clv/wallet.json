@@ -1,0 +1,14 @@
+{
+  "id": "clv",
+  "name": "CLV",
+  "namespace": "clover",
+  "iconAccent": "#BDFDE2",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "ios": "https://apps.apple.com/app/clover-wallet/id1570072858",
+    "mobile": "https://apps.apple.com/app/clover-wallet/id1570072858",
+    "qrCode": "https://clv.org/",
+    "chrome": "https://chrome.google.com/webstore/detail/clv-wallet/nhnkbkgjikgcigadomkphalanndcapjk"
+  },
+  "icon": "/assets/wallets/clv/wallet.svg"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "paraswap",
+  "name": "ParaSwap Wallet",
+  "namespace": "",
+  "iconBackground": "#578CFC",
+  "downloadUrls": {
+    "ios": "https://apps.apple.com/us/app/paraswap-multichain-wallet/id1584610690",
+    "mobile": "https://paraswap.io",
+    "qrCode": "https://paraswap.io"
+  },
+  "icon": "/assets/wallets/paraswap/wallet.svg"
+}

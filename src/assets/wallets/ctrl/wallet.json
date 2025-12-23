@@ -1,0 +1,12 @@
+{
+  "id": "ctrl",
+  "name": "CTRL Wallet",
+  "namespace": "ctrl.ethereum",
+  "rdns": "xyz.ctrl",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "chrome": "https://chromewebstore.google.com/detail/ctrl-wallet/hmeobnfnfcmdkdcmlblgagmfpfboieaf",
+    "browserExtension": "https://ctrl.xyz"
+  },
+  "icon": "/assets/wallets/ctrl/wallet.svg"
+}

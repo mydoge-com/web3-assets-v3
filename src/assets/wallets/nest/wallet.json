@@ -1,0 +1,12 @@
+{
+  "id": "nest",
+  "name": "Nest",
+  "namespace": "",
+  "rdns": "xyz.nestwallet",
+  "flag": "isNestWallet",
+  "iconBackground": "#fff0",
+  "downloadUrls": {
+    "browserExtension": "https://nestwallet.xyz"
+  },
+  "icon": "/assets/wallets/nest/wallet.svg"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "safe",
+  "name": "Safe",
+  "namespace": "",
+  "iconAccent": "#12ff80",
+  "iconBackground": "#fff",
+  "downloadUrls": {},
+  "icon": "/assets/wallets/safe/wallet.svg"
+}

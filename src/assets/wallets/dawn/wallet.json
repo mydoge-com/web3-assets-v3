@@ -1,0 +1,11 @@
+{
+  "id": "dawn",
+  "name": "Dawn",
+  "namespace": "",
+  "iconBackground": "#000000",
+  "downloadUrls": {
+    "ios": "https://apps.apple.com/us/app/dawn-ethereum-wallet/id1673143782",
+    "mobile": "https://dawnwallet.xyz"
+  },
+  "icon": "/assets/wallets/dawn/wallet.svg"
+}

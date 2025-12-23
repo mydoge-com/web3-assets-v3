@@ -1,0 +1,19 @@
+{
+  "id": "petra",
+  "name": "Petra",
+  "namespace": "aptos",
+  "rdns": "app.petra",
+  "iconBackground": "#0C0D10",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=com.aptoslabs.petra.wallet",
+    "ios": "https://apps.apple.com/app/petra-wallet/id6446259840",
+    "mobile": "https://petra.app/",
+    "qrCode": "https://petra.app/",
+    "chrome": "https://chromewebstore.google.com/detail/petra-aptos-wallet/ejjladinnckdgjemekebdpeokbikhfci?hl=encategory=extensions",
+    "browserExtension": "https://petra.app/"
+  },
+  "aptos": {
+    "namespace": "aptos"
+  },
+  "icon": "/assets/wallets/petra/wallet.svg"
+}

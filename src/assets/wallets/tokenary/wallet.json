@@ -1,0 +1,14 @@
+{
+  "id": "tokenary",
+  "name": "Tokenary",
+  "namespace": "",
+  "iconBackground": "#ffffff",
+  "downloadUrls": {
+    "ios": "https://tokenary.io/get",
+    "mobile": "https://tokenary.io",
+    "qrCode": "https://tokenary.io/get",
+    "safari": "https://tokenary.io/get",
+    "browserExtension": "https://tokenary.io/get"
+  },
+  "icon": "/assets/wallets/tokenary/wallet.svg"
+}

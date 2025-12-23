@@ -1,0 +1,12 @@
+{
+  "id": "bitski",
+  "name": "Bitski",
+  "namespace": "",
+  "flag": "isBitski",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "chrome": "https://chrome.google.com/webstore/detail/bitski/feejiigddaafeojfddjjlmfkabimkell",
+    "browserExtension": "https://bitski.com"
+  },
+  "icon": "/assets/wallets/bitski/wallet.svg"
+}

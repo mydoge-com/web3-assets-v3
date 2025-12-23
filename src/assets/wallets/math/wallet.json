@@ -1,0 +1,15 @@
+{
+  "id": "math-wallet",
+  "name": "MathWallet",
+  "namespace": "",
+  "rdns": "com.mathwallet",
+  "flag": "isMathWallet",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=com.mathwallet",
+    "ios": "https://apps.apple.com/app/math-wallet/id1457119021",
+    "mobile": "https://www.mathwallet.org/",
+    "qrCode": "https://www.mathwallet.org/"
+  },
+  "icon": "/assets/wallets/math/wallet.svg"
+}

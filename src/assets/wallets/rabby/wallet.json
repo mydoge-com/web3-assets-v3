@@ -1,0 +1,13 @@
+{
+  "id": "rabby",
+  "name": "Rabby Wallet",
+  "namespace": "",
+  "rdns": "io.rabby",
+  "flag": "isRabby",
+  "iconBackground": "#8697FF",
+  "downloadUrls": {
+    "chrome": "https://chrome.google.com/webstore/detail/rabby-wallet/acmacodkjbdgmoleebolmdjonilkdbch",
+    "browserExtension": "https://rabby.io"
+  },
+  "icon": "/assets/wallets/rabby/wallet.svg"
+}

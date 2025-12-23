@@ -1,0 +1,10 @@
+{
+  "id": "bloom",
+  "name": "Bloom Wallet",
+  "iconAccent": "#000",
+  "iconBackground": "#000",
+  "downloadUrls": {
+    "desktop": "https://bloomwallet.io/"
+  },
+  "icon": "/assets/wallets/bloom/wallet.svg"
+}

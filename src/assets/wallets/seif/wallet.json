@@ -1,0 +1,11 @@
+{
+  "id": "seif",
+  "name": "Seif",
+  "namespace": "__seif",
+  "rdns": "com.passkeywallet.seif",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "chrome": "https://chromewebstore.google.com/detail/seif/albakdmmdafeafbehmcpoejenbeojejl"
+  },
+  "icon": "/assets/wallets/seif/wallet.svg"
+}

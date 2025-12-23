@@ -1,0 +1,12 @@
+{
+  "id": "safeheron",
+  "name": "Safeheron",
+  "namespace": "safeheron",
+  "flag": "isSafeheron",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "chrome": "https://chrome.google.com/webstore/detail/safeheron/aiaghdjafpiofpainifbgfgjfpclngoh",
+    "browserExtension": "https://www.safeheron.com/"
+  },
+  "icon": "/assets/wallets/safeheron/wallet.svg"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "taho",
+  "name": "Taho",
+  "namespace": "tally",
+  "flag": "isTally",
+  "iconBackground": "#d08d57",
+  "downloadUrls": {
+    "chrome": "https://chrome.google.com/webstore/detail/taho/eajafomhmkipbjmfmhebemolkcicgfmd",
+    "browserExtension": "https://taho.xyz"
+  },
+  "icon": "/assets/wallets/taho/wallet.svg"
+}
