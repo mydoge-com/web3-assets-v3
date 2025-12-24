@@ -1,6 +1,8 @@
 import { NextResponse } from "next/server";
 import { getWallets } from "@/lib/config-loader";
 
+export const runtime = 'edge';
+
 /**
  * GET /api/wallets
  */

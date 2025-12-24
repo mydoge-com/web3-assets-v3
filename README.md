@@ -2,6 +2,11 @@
 
 A Next.js-based Web3 resource management middleware layer that provides static configuration APIs for chains, wallets, and tokens. Supports multi-chain, multi-wallet, and multi-token configurations.
 
+## Limitations
+- Only deploy to Cloudflare Pages.
+- Only use edge runtime for API routes.
+> edge runtime is required for Cloudflare Pages deployment. Node.js runtime is not supported. docs: https://nextjs.org/docs/app/api-reference/edge#unsupported-apis
+
 ## Features
 
 - ✅ Multi-chain support with CAIP-2 format chainId (e.g., `eip155:1`)
