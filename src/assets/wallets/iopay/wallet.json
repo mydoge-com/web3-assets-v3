@@ -9,5 +9,10 @@
     "qrCode": "https://iopay.me/",
     "browserExtension": "https://iopay.me/"
   },
-  "icon": "/assets/wallets/iopay/wallet.svg"
+  "icon": "/assets/wallets/iopay/wallet.svg",
+  "mobile": {
+    "uriTemplates": {
+      "android": "{uri}"
+    }
+  }
 }

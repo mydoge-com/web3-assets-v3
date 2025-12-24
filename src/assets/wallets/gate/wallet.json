@@ -13,5 +13,10 @@
     "chrome": "https://chromewebstore.google.com/detail/gate-wallet/cpmkedoipcpimgecpmgpldfpohjplkpp",
     "browserExtension": "https://www.gate.io/web3"
   },
-  "icon": "/assets/wallets/gate/wallet.svg"
+  "icon": "/assets/wallets/gate/wallet.svg",
+  "mobile": {
+    "uriTemplates": {
+      "android": "{uri}"
+    }
+  }
 }

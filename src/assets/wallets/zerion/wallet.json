@@ -13,5 +13,11 @@
     "chrome": "https://chrome.google.com/webstore/detail/klghhnkeealcohjjanjjdaeeggmfmlpl",
     "browserExtension": "https://zerion.io/extension"
   },
+  "mobile": {
+    "uriTemplates": {
+      "ios": "zerion://wc?uri={uri}",
+      "default": "{uri}"
+    }
+  },
   "icon": "/assets/wallets/zerion/wallet.svg"
 }

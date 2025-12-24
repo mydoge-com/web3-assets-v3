@@ -8,5 +8,8 @@
     "mobile": "https://kraken.com/wallet",
     "qrCode": "https://kraken.com/wallet"
   },
+  "mobile": {
+    "uriTemplate": "krakenwallet://wc?uri={uri}"
+  },
   "icon": "/assets/wallets/kraken/wallet.svg"
 }

@@ -8,5 +8,8 @@
     "mobile": "https://paraswap.io",
     "qrCode": "https://paraswap.io"
   },
+  "mobile": {
+    "uriTemplate": "paraswap://wc?uri={uri}"
+  },
   "icon": "/assets/wallets/paraswap/wallet.svg"
 }

@@ -8,5 +8,8 @@
     "ios": "https://apps.apple.com/us/app/bitverse-discover-web3-wealth/id1645515614",
     "qrCode": "https://www.bitverse.zone/download"
   },
+  "mobile": {
+    "uriTemplate": "bitverseapp://open/wallet/wc?uri={uri}"
+  },
   "icon": "/assets/wallets/bitverse/wallet.svg"
 }

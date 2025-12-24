@@ -14,5 +14,8 @@
     "chrome": "https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad",
     "browserExtension": "https://coinbase.com/wallet"
   },
+  "mobile": {
+    "deeplinkTemplate": "https://go.cb-w.com/dapp?cb_url={dappUrl}"
+  },
   "icon": "/assets/wallets/coinbase/wallet.svg"
 }

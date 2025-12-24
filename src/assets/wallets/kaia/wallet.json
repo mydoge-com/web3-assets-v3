@@ -11,5 +11,8 @@
     "chrome": "https://chromewebstore.google.com/detail/kaia-wallet/jblndlipeogpafnldhgmapagcccfchpi",
     "browserExtension": "https://app.kaiawallet.io"
   },
+  "mobile": {
+    "uriTemplate": "kaikas://walletconnect?uri={uri}"
+  },
   "icon": "/assets/wallets/kaia/wallet.svg"
 }

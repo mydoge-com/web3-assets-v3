@@ -8,5 +8,8 @@
     "ios": "https://apps.apple.com/us/app/kresus-crypto-nft-superapp/id6444355152",
     "qrCode": "https://kresusconnect.kresus.com/download"
   },
+  "mobile": {
+    "uriTemplate": "com.kresus.superapp://wc?uri={uri}"
+  },
   "icon": "/assets/wallets/kresus/wallet.svg"
 }

@@ -19,5 +19,10 @@
   "aptos": {
     "namespace": "bitkeep.aptos"
   },
-  "icon": "/assets/wallets/bitget/wallet.svg"
+  "icon": "/assets/wallets/bitget/wallet.svg",
+  "mobile": {
+    "uriTemplates": {
+      "android": "{uri}"
+    }
+  }
 }

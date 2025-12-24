@@ -12,5 +12,13 @@
     "qrCode": "https://www.binance.com/en/web3wallet",
     "chrome": "https://chromewebstore.google.com/detail/cadiboklkpojfamcoggejbbdjcoiljjk"
   },
-  "icon": "/assets/wallets/binance/wallet.svg"
+  "icon": "/assets/wallets/binance/wallet.svg",
+  "mobile": {
+    "uriTemplates": {
+      "android": "{uri}",
+      "ios": "bnc://app.binance.com/cedefi/wc?uri={uri}",
+      "default": "bnc://app.binance.com/cedefi/wc?uri={uri}"
+    },
+    "deeplinkTemplate": "https://app.binance.com/en/download?_dp=${deeplink}"
+  }
 }

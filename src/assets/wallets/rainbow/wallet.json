@@ -12,5 +12,12 @@
     "qrCode": "https://rainbow.download?utm_source=rainbowkit&utm_medium=qrcode",
     "browserExtension": "https://rainbow.me/extension?utm_source=rainbowkit"
   },
-  "icon": "/assets/wallets/rainbow/wallet.svg"
+  "icon": "/assets/wallets/rainbow/wallet.svg",
+  "mobile": {
+    "uriTemplates": {
+      "android": "{uri}",
+      "ios": "rainbow://wc?uri={uri}&connector=rainbowkit",
+      "default": "https://rnbwapp.com/wc?uri={uri}&connector=rainbowkit"
+    }
+  }
 }

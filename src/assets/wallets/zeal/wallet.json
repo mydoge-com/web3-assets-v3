@@ -14,5 +14,8 @@
     "chrome": "https://chromewebstore.google.com/detail/zeal-wallet/heamnjbnflcikcggoiplibfommfbkjpj",
     "browserExtension": "https://zeal.app"
   },
+  "mobile": {
+    "uriTemplate": "zeal://wc?uri={uri}"
+  },
   "icon": "/assets/wallets/zeal/wallet.svg"
 }

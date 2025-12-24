@@ -12,5 +12,8 @@
     "chrome": "https://chromewebstore.google.com/detail/bybit-wallet/pdliaogehgdbhbnmkklieghmmjkpigpa",
     "browserExtension": "https://www.bybit.com/en/web3"
   },
+  "mobile": {
+    "uriTemplate": "bybitapp://open/route?targetUrl=by://web3/walletconnect/wc?uri={uri}"
+  },
   "icon": "/assets/wallets/bybit/wallet.svg"
 }

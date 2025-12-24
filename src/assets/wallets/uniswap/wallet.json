@@ -8,5 +8,8 @@
     "mobile": "https://wallet.uniswap.org/",
     "qrCode": "https://wallet.uniswap.org/"
   },
+  "mobile": {
+    "uriTemplate": "uniswap://wc?uri={uri}"
+  },
   "icon": "/assets/wallets/uniswap/wallet.svg"
 }

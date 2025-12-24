@@ -9,5 +9,10 @@
     "mobile": "https://valora.xyz",
     "qrCode": "https://valora.xyz"
   },
-  "icon": "/assets/wallets/valora/wallet.svg"
+  "icon": "/assets/wallets/valora/wallet.svg",
+  "mobile": {
+    "uriTemplates": {
+      "android": "{uri}"
+    }
+  }
 }

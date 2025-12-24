@@ -9,5 +9,8 @@
     "mobile": "https://1inch.io/wallet",
     "qrCode": "https://1inch.io/wallet"
   },
+  "mobile": {
+    "uriTemplate": "oneinch://wc?uri={uri}"
+  },
   "icon": "/assets/wallets/oneinch/wallet.svg"
 }

@@ -9,5 +9,10 @@
     "mobile": "https://okto.tech/",
     "qrCode": "https://okto.tech/"
   },
-  "icon": "/assets/wallets/okto/wallet.svg"
+  "icon": "/assets/wallets/okto/wallet.svg",
+  "mobile": {
+    "uriTemplates": {
+      "android": "{uri}"
+    }
+  }
 }

@@ -14,5 +14,10 @@
     "linux": "https://www.ledger.com/ledger-live/download",
     "desktop": "https://www.ledger.com/ledger-live"
   },
-  "icon": "/assets/wallets/ledger/wallet.svg"
+  "icon": "/assets/wallets/ledger/wallet.svg",
+  "mobile": {
+    "uriTemplates": {
+      "android": "{uri}"
+    }
+  }
 }

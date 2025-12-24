@@ -8,5 +8,8 @@
     "ios": "https://apps.apple.com/app/foxwallet-crypto-web3/id1590983231",
     "qrCode": "https://foxwallet.com/download"
   },
+  "mobile": {
+    "uriTemplate": "foxwallet://wc?uri={uri}"
+  },
   "icon": "/assets/wallets/fox/wallet.svg"
 }

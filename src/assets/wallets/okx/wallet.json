@@ -21,5 +21,13 @@
   "aptos": {
     "namespace": "okxwallet.aptos"
   },
-  "icon": "/assets/wallets/okx/wallet.svg"
+  "icon": "/assets/wallets/okx/wallet.svg",
+  "mobile": {
+    "uriTemplates": {
+      "android": "{uri}",
+      "ios": "okex://main/wc?uri={uri}",
+      "default": "okex://main/wc?uri={uri}"
+    },
+    "deeplinkTemplate": "https://www.okx.com/download?deeplink=okx://wallet/dapp/url?dappUrl={deeplink}"
+  }
 }

@@ -9,5 +9,10 @@
     "mobile": "https://omniwallet.app.link",
     "qrCode": "https://omniwallet.app.link"
   },
-  "icon": "/assets/wallets/omni/wallet.svg"
+  "icon": "/assets/wallets/omni/wallet.svg",
+  "mobile": {
+    "uriTemplates": {
+      "android": "{uri}"
+    }
+  }
 }

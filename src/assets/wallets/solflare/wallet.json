@@ -14,5 +14,8 @@
   "solana": {
     "namespace": "solflare"
   },
+  "mobile": {
+    "deeplinkTemplate": "https://solflare.com/ul/v1/browse/{dappUrl}?ref={dappUrl}"
+  },
   "icon": "/assets/wallets/solflare/wallet.svg"
 }
