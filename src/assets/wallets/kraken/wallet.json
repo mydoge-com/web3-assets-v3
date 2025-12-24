@@ -9,7 +9,9 @@
     "qrCode": "https://kraken.com/wallet"
   },
   "mobile": {
-    "uriTemplate": "krakenwallet://wc?uri={uri}"
+    "uriTemplates": {
+      "default": "krakenwallet://wc?uri={uri}"
+    }
   },
   "icon": "/assets/wallets/kraken/wallet.svg"
 }

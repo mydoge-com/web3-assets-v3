@@ -9,7 +9,9 @@
     "qrCode": "https://paraswap.io"
   },
   "mobile": {
-    "uriTemplate": "paraswap://wc?uri={uri}"
+    "uriTemplates": {
+      "default": "paraswap://wc?uri={uri}"
+    }
   },
   "icon": "/assets/wallets/paraswap/wallet.svg"
 }

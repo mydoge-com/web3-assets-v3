@@ -9,7 +9,9 @@
     "qrCode": "https://foxwallet.com/download"
   },
   "mobile": {
-    "uriTemplate": "foxwallet://wc?uri={uri}"
+    "uriTemplates": {
+      "default": "foxwallet://wc?uri={uri}"
+    }
   },
   "icon": "/assets/wallets/fox/wallet.svg"
 }

@@ -19,6 +19,8 @@
       "ios": "bnc://app.binance.com/cedefi/wc?uri={uri}",
       "default": "bnc://app.binance.com/cedefi/wc?uri={uri}"
     },
-    "deeplinkTemplate": "https://app.binance.com/en/download?_dp=${deeplink}"
+    "deeplinkTemplate": {
+      "deeplink": "https://app.binance.com/en/download?_dp=${deeplink}"
+    }
   }
 }

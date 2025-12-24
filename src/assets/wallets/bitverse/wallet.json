@@ -9,7 +9,9 @@
     "qrCode": "https://www.bitverse.zone/download"
   },
   "mobile": {
-    "uriTemplate": "bitverseapp://open/wallet/wc?uri={uri}"
+    "uriTemplates": {
+      "default": "bitverseapp://open/wallet/wc?uri={uri}"
+    }
   },
   "icon": "/assets/wallets/bitverse/wallet.svg"
 }

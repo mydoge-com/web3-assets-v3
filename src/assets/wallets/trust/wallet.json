@@ -15,7 +15,9 @@
     "browserExtension": "https://trustwallet.com/browser-extension"
   },
   "mobile": {
-    "deeplinkTemplate": "https://link.trustwallet.com/open_url?coin_id=60&url={dappUrl}"
+    "deeplinkTemplate": {
+      "deeplink": "https://link.trustwallet.com/open_url?coin_id=60&url={dappUrl}"
+    }
   },
   "icon": "/assets/wallets/trust/wallet.svg"
 }

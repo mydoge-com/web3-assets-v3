@@ -12,7 +12,9 @@
     "browserExtension": "https://app.kaiawallet.io"
   },
   "mobile": {
-    "uriTemplate": "kaikas://walletconnect?uri={uri}"
+    "uriTemplates": {
+      "default": "kaikas://walletconnect?uri={uri}"
+    }
   },
   "icon": "/assets/wallets/kaia/wallet.svg"
 }

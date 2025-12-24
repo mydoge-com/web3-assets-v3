@@ -9,7 +9,9 @@
     "qrCode": "https://kresusconnect.kresus.com/download"
   },
   "mobile": {
-    "uriTemplate": "com.kresus.superapp://wc?uri={uri}"
+    "uriTemplates": {
+      "default": "com.kresus.superapp://wc?uri={uri}"
+    }
   },
   "icon": "/assets/wallets/kresus/wallet.svg"
 }

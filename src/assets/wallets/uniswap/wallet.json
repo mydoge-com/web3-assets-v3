@@ -9,7 +9,9 @@
     "qrCode": "https://wallet.uniswap.org/"
   },
   "mobile": {
-    "uriTemplate": "uniswap://wc?uri={uri}"
+    "uriTemplates": {
+      "default": "uniswap://wc?uri={uri}"
+    }
   },
   "icon": "/assets/wallets/uniswap/wallet.svg"
 }

@@ -15,7 +15,9 @@
     "browserExtension": "https://zeal.app"
   },
   "mobile": {
-    "uriTemplate": "zeal://wc?uri={uri}"
+    "uriTemplates": {
+      "default": "zeal://wc?uri={uri}"
+    }
   },
   "icon": "/assets/wallets/zeal/wallet.svg"
 }

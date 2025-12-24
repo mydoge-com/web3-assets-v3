@@ -10,8 +10,12 @@
     "qrCode": "https://token.im/download"
   },
   "mobile": {
-    "uriTemplate": "imtokenv2://wc?uri={uri}",
-    "deeplinkTemplate": "imtokenv2://navigate?screen=DappView&url={dappUrl}"
+    "deeplinkTemplate": {
+      "deeplink": "imtokenv2://navigate?screen=DappView&url={dappUrl}"
+    },
+    "uriTemplates": {
+      "default": "imtokenv2://wc?uri={uri}"
+    }
   },
   "icon": "/assets/wallets/imtoken/wallet.svg"
 }

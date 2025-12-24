@@ -23,7 +23,10 @@
       "ios": "metamask://wc?uri={uri}",
       "default": "https://metamask.app.link/wc?uri={uri}"
     },
-    "deeplinkTemplate": "https://metamask.app.link/dapp/{dappUrl}"
+    "deeplinkTemplate": {
+      "deeplink": "https://metamask.app.link/dapp/{dappUrl}",
+      "removeProtocol": true
+    }
   },
   "icon": "/assets/wallets/metamask/wallet.svg"
 }

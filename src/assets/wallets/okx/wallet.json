@@ -28,6 +28,8 @@
       "ios": "okex://main/wc?uri={uri}",
       "default": "okex://main/wc?uri={uri}"
     },
-    "deeplinkTemplate": "https://www.okx.com/download?deeplink=okx://wallet/dapp/url?dappUrl={deeplink}"
+    "deeplinkTemplate": {
+      "deeplink": "https://www.okx.com/download?deeplink=okx://wallet/dapp/url?dappUrl={dappUrl}"
+    }
   }
 }

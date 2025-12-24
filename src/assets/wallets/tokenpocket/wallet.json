@@ -16,7 +16,9 @@
     "namespace": "tokenpocket.solana"
   },
   "mobile": {
-    "deeplinkTemplate": "tpdapp://open?params={\"url\":\"{dappUrl}\"}"
+    "deeplinkTemplate": {
+      "deeplink": "tpdapp://open?params={\"url\":\"{dappUrl}\"}"
+    }
   },
   "icon": "/assets/wallets/tokenpocket/wallet.svg"
 }
