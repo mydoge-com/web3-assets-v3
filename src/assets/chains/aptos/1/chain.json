@@ -1,0 +1,15 @@
+{
+  "chainId": "aptos:1",
+  "name": "Aptos",
+  "icon": "/assets/chains/aptos/1/icon.svg",
+  "nativeCurrency": {
+    "name": "APT",
+    "symbol": "APT",
+    "decimals": 8
+  },
+  "rpcUrls": {
+    "default": {
+      "http": ["https://fullnode.mainnet.aptoslabs.com/v1"]
+    }
+  }
+}

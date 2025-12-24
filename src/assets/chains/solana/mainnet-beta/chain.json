@@ -1,0 +1,15 @@
+{
+  "chainId": "solana:mainnet-beta",
+  "name": "Solana",
+  "icon": "https://static.tomo.inc/token/sol.svg",
+  "nativeCurrency": {
+    "name": "SOL",
+    "symbol": "SOL",
+    "decimals": 9
+  },
+  "rpcUrls": {
+    "default": {
+      "http": ["https://api.mainnet-beta.solana.com"]
+    }
+  }
+}
