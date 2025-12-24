@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getTokens } from "@/lib/config-loader";
 
+export const runtime = 'edge';
+
 /**
  * GET /api/tokens
  * Query params:
