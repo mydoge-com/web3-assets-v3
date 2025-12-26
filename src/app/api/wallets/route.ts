@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getWallets } from "@/lib/config-loader";
 
-export const runtime = 'edge';
+export const runtime = "edge";
 
 /**
  * OPTIONS /api/wallets - Handle CORS preflight
