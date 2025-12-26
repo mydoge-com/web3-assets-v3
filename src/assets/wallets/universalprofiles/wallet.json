@@ -1,0 +1,17 @@
+{
+  "id": "universal-profiles",
+  "name": "Universal Profiles",
+  "namespace": "lukso",
+  "rdns": "io.universaleverything.universalprofiles",
+  "iconAccent": "#6e77a9",
+  "iconBackground": "#6e77a9",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=io.universaleverything.universalprofiles",
+    "ios": "https://apps.apple.com/us/app/universalprofiles/id6702018631",
+    "mobile": "https://my.universalprofile.cloud",
+    "qrCode": "https://my.universalprofile.cloud/apps",
+    "chrome": "https://chrome.google.com/webstore/detail/abpickdkkbnbcoepogfhkhennhfhehfn",
+    "browserExtension": "https://my.universalprofile.cloud"
+  },
+  "icon": "/assets/wallets/universalprofiles/wallet.svg"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "trezor-wallet",
+  "name": "TrezorWallet",
+  "namespace": "",
+  "rdns": "app.trezor",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=com.trezor.trezor",
+    "ios": "https://apps.apple.com/app/id1352731313",
+    "mobile": "https://trezor.io/",
+    "qrCode": "https://trezor.io/"
+  },
+  "icon": "/assets/wallets/trezor/wallet.svg"
+}

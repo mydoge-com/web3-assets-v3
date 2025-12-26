@@ -1,0 +1,23 @@
+{
+  "id": "zerion",
+  "name": "Zerion",
+  "namespace": "zerionWallet",
+  "rdns": "io.zerion.wallet",
+  "iconAccent": "#2962ef",
+  "iconBackground": "#2962ef",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=io.zerion.android",
+    "ios": "https://apps.apple.com/app/apple-store/id1456732565",
+    "mobile": "https://link.zerion.io/pt3gdRP0njb",
+    "qrCode": "https://link.zerion.io/pt3gdRP0njb",
+    "chrome": "https://chrome.google.com/webstore/detail/klghhnkeealcohjjanjjdaeeggmfmlpl",
+    "browserExtension": "https://zerion.io/extension"
+  },
+  "mobile": {
+    "uriTemplates": {
+      "ios": "zerion://wc?uri={uri}",
+      "default": "{uri}"
+    }
+  },
+  "icon": "/assets/wallets/zerion/wallet.svg"
+}

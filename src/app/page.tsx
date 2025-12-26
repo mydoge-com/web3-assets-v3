@@ -20,7 +20,7 @@ const ENDPOINTS: Record<EndpointKey, EndpointConfig> = {
   },
   wallets: {
     label: "Wallets",
-    path: "/api/wallets",
+    path: "/api/wallets?walletId=io.metamask",
     description: "Query all configured wallets with their icons.",
   },
   tokens: {

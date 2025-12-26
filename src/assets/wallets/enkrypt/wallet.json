@@ -1,0 +1,17 @@
+{
+  "id": "enkrypt",
+  "name": "Enkrypt Wallet",
+  "namespace": "enkrypt.providers.ethereum",
+  "rdns": "com.enkrypt",
+  "iconBackground": "#FFFFFF",
+  "downloadUrls": {
+    "qrCode": "https://www.enkrypt.com",
+    "chrome": "https://chrome.google.com/webstore/detail/enkrypt-ethereum-polkadot/kkpllkodjeloidieedojogacfhpaihoh",
+    "edge": "https://microsoftedge.microsoft.com/addons/detail/enkrypt-ethereum-polkad/gfenajajnjjmmdojhdjmnngomkhlnfjl",
+    "firefox": "https://addons.mozilla.org/en-US/firefox/addon/enkrypt/",
+    "opera": "https://addons.opera.com/en/extensions/details/enkrypt/",
+    "safari": "https://apps.apple.com/app/enkrypt-web3-wallet/id1640164309",
+    "browserExtension": "https://www.enkrypt.com/"
+  },
+  "icon": "/assets/wallets/enkrypt/wallet.svg"
+}

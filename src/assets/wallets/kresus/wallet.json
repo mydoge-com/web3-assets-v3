@@ -1,0 +1,17 @@
+{
+  "id": "kresus-wallet",
+  "name": "Kresus Wallet",
+  "namespace": "",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=com.kresus.superapp",
+    "ios": "https://apps.apple.com/us/app/kresus-crypto-nft-superapp/id6444355152",
+    "qrCode": "https://kresusconnect.kresus.com/download"
+  },
+  "mobile": {
+    "uriTemplates": {
+      "default": "com.kresus.superapp://wc?uri={uri}"
+    }
+  },
+  "icon": "/assets/wallets/kresus/wallet.svg"
+}

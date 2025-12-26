@@ -1,0 +1,22 @@
+{
+  "id": "gate",
+  "name": "Gate Wallet",
+  "namespace": "gatewallet",
+  "rdns": "io.gate.wallet",
+  "iconAccent": "#fff",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=com.gateio.gateio",
+    "ios": "https://apps.apple.com/us/app/gate-io-buy-bitcoin-crypto/id1294998195",
+    "mobile": "https://www.gate.io/mobileapp",
+    "qrCode": "https://www.gate.io/web3",
+    "chrome": "https://chromewebstore.google.com/detail/gate-wallet/cpmkedoipcpimgecpmgpldfpohjplkpp",
+    "browserExtension": "https://www.gate.io/web3"
+  },
+  "icon": "/assets/wallets/gate/wallet.svg",
+  "mobile": {
+    "uriTemplates": {
+      "android": "{uri}"
+    }
+  }
+}

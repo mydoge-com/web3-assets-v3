@@ -39,7 +39,10 @@ export function getChains(chainId?: string): ChainConfig[] {
 /**
  * Get all wallet configurations.
  */
-export function getWallets(): WalletConfig[] {
+export function getWallets(walletId?: string): WalletConfig[] {
+  if (walletId) {
+    return wallets.filter((wallet) => wallet.id === walletId);
+  }
   return wallets;
 }
 

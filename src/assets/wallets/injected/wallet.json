@@ -1,0 +1,7 @@
+{
+  "id": "injected",
+  "name": "Browser Wallet",
+  "namespace": "",
+  "iconBackground": "#fff",
+  "icon": "/assets/wallets/injected/wallet.svg"
+}

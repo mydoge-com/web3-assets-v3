@@ -1,0 +1,18 @@
+{
+  "id": "ronin",
+  "name": "Ronin Wallet",
+  "namespace": "ronin.provider",
+  "rdns": "com.roninchain.wallet",
+  "iconBackground": "#ffffff",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=com.skymavis.genesis",
+    "ios": "https://apps.apple.com/us/app/ronin-wallet/id1592675001",
+    "mobile": "https://wallet.roninchain.com",
+    "qrCode": "https://wallet.roninchain.com/",
+    "chrome": "https://chrome.google.com/webstore/detail/ronin-wallet/fnjhmkhhmkbjkkabndcnnogagogbneec",
+    "edge": "https://microsoftedge.microsoft.com/addons/detail/ronin-wallet/kjmoohlgokccodicjjfebfomlbljgfhk",
+    "firefox": "https://addons.mozilla.org/firefox/addon/ronin-wallet",
+    "browserExtension": "https://wallet.roninchain.com/"
+  },
+  "icon": "/assets/wallets/ronin/wallet.svg"
+}

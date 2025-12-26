@@ -1,0 +1,24 @@
+{
+  "id": "tokenPocket",
+  "name": "TokenPocket",
+  "namespace": "tokenpocket.ethereum",
+  "rdns": "pro.tokenpocket",
+  "iconBackground": "#2980FE",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=vip.mytokenpocket",
+    "ios": "https://apps.apple.com/us/app/tp-global-wallet/id6444625622",
+    "mobile": "https://tokenpocket.pro/en/download/app",
+    "qrCode": "https://tokenpocket.pro/en/download/app",
+    "chrome": "https://chrome.google.com/webstore/detail/tokenpocket/mfgccjchihfkkindfppnaooecgfneiii",
+    "browserExtension": "https://extension.tokenpocket.pro/"
+  },
+  "solana": {
+    "namespace": "tokenpocket.solana"
+  },
+  "mobile": {
+    "deeplinkTemplate": {
+      "deeplink": "tpdapp://open?params={\"url\":\"{dappUrl}\"}"
+    }
+  },
+  "icon": "/assets/wallets/tokenpocket/wallet.svg"
+}

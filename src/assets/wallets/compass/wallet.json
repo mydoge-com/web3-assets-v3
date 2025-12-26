@@ -1,0 +1,12 @@
+{
+  "id": "compass",
+  "name": "Compass Wallet",
+  "namespace": "compassEvm",
+  "rdns": "io.leapwallet.CompassWallet",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "chrome": "https://chromewebstore.google.com/detail/compass-wallet-for-sei/anokgmphncpekkhclmingpimjmcooifb",
+    "browserExtension": "https://compasswallet.io/download"
+  },
+  "icon": "/assets/wallets/compass/wallet.svg"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "zeal",
+  "name": "Zeal",
+  "namespace": "",
+  "rdns": "app.zeal",
+  "flag": "isZeal",
+  "iconAccent": "#00FFFF",
+  "iconBackground": "#fff0",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=app.zeal.wallet",
+    "ios": "https://testflight.apple.com/join/MP72Ytw8",
+    "mobile": "https://zeal.app",
+    "qrCode": "https://zeal.app",
+    "chrome": "https://chromewebstore.google.com/detail/zeal-wallet/heamnjbnflcikcggoiplibfommfbkjpj",
+    "browserExtension": "https://zeal.app"
+  },
+  "mobile": {
+    "uriTemplates": {
+      "default": "zeal://wc?uri={uri}"
+    }
+  },
+  "icon": "/assets/wallets/zeal/wallet.svg"
+}

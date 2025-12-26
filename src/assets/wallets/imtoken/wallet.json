@@ -1,0 +1,21 @@
+{
+  "id": "imToken",
+  "name": "imToken",
+  "namespace": "",
+  "iconBackground": "#098de6",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=im.token.app",
+    "ios": "https://itunes.apple.com/us/app/imtoken2/id1384798940",
+    "mobile": "https://token.im/download",
+    "qrCode": "https://token.im/download"
+  },
+  "mobile": {
+    "deeplinkTemplate": {
+      "deeplink": "imtokenv2://navigate?screen=DappView&url={dappUrl}"
+    },
+    "uriTemplates": {
+      "default": "imtokenv2://wc?uri={uri}"
+    }
+  },
+  "icon": "/assets/wallets/imtoken/wallet.svg"
+}

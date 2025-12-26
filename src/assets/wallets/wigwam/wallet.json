@@ -1,0 +1,13 @@
+{
+  "id": "wigwam",
+  "name": "Wigwam",
+  "namespace": "wigwamEthereum",
+  "rdns": "com.wigwam.wallet",
+  "flag": "isWigwam",
+  "iconBackground": "#80EF6E",
+  "downloadUrls": {
+    "chrome": "https://chromewebstore.google.com/detail/wigwam-%E2%80%94-web3-wallet/lccbohhgfkdikahanoclbdmaolidjdfl",
+    "browserExtension": "https://wigwam.app"
+  },
+  "icon": "/assets/wallets/wigwam/wallet.svg"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "core",
+  "name": "Core",
+  "namespace": "avalanche",
+  "rdns": "app.core.extension",
+  "flag": "isAvalanche",
+  "iconBackground": "#1A1A1C",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=com.avaxwallet",
+    "ios": "https://apps.apple.com/us/app/core-wallet/id6443685999",
+    "mobile": "https://core.app/?downloadCoreMobile=1",
+    "qrCode": "https://core.app/?downloadCoreMobile=1",
+    "chrome": "https://chrome.google.com/webstore/detail/core-crypto-wallet-nft-ex/agoakfejjabomempkjlepdflaleeobhb",
+    "browserExtension": "https://extension.core.app/"
+  },
+  "icon": "/assets/wallets/core/wallet.svg"
+}

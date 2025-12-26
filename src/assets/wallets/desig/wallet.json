@@ -1,0 +1,14 @@
+{
+  "id": "desig",
+  "name": "Desig Wallet",
+  "namespace": "desig.ethereum",
+  "iconBackground": "#ffffff",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=io.desig.app",
+    "ios": "https://apps.apple.com/app/desig-wallet/id6450106028",
+    "mobile": "https://desig.io",
+    "qrCode": "https://desig.io",
+    "browserExtension": "https://chrome.google.com/webstore/detail/desig-wallet/panpgppehdchfphcigocleabcmcgfoca"
+  },
+  "icon": "/assets/wallets/desig/wallet.svg"
+}

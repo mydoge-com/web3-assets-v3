@@ -1,0 +1,15 @@
+{
+  "id": "magicEden",
+  "name": "Magic Eden Wallet",
+  "namespace": "magicEden.ethereum",
+  "rdns": "io.magiceden.wallet",
+  "iconBackground": "#36114D",
+  "downloadUrls": {
+    "chrome": "https://chromewebstore.google.com/detail/magic-eden-wallet/mkpegjkblkkefacfnmkajcjmabijhclg",
+    "browserExtension": "https://wallet.magiceden.io/"
+  },
+  "solana": {
+    "namespace": "magicEden.solana"
+  },
+  "icon": "/assets/wallets/magiceden/wallet.svg"
+}

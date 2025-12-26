@@ -1,0 +1,17 @@
+{
+  "id": "uniswap",
+  "name": "Uniswap Wallet",
+  "namespace": "",
+  "iconBackground": "#FFD8EA",
+  "downloadUrls": {
+    "ios": "https://apps.apple.com/app/apple-store/id6443944476",
+    "mobile": "https://wallet.uniswap.org/",
+    "qrCode": "https://wallet.uniswap.org/"
+  },
+  "mobile": {
+    "uriTemplates": {
+      "default": "uniswap://wc?uri={uri}"
+    }
+  },
+  "icon": "/assets/wallets/uniswap/wallet.svg"
+}

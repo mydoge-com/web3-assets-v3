@@ -1,0 +1,18 @@
+{
+  "id": "1inch",
+  "name": "1inch Wallet",
+  "namespace": "",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=io.oneinch.android",
+    "ios": "https://apps.apple.com/us/app/1inch-crypto-defi-wallet/id1546049391",
+    "mobile": "https://1inch.io/wallet",
+    "qrCode": "https://1inch.io/wallet"
+  },
+  "mobile": {
+    "uriTemplates": {
+      "default": "oneinch://wc?uri={uri}"
+    }
+  },
+  "icon": "/assets/wallets/oneinch/wallet.svg"
+}

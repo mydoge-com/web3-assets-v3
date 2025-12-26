@@ -1,0 +1,11 @@
+{
+  "id": "walletConnect",
+  "name": "WalletConnect",
+  "namespace": "",
+  "iconBackground": "#3b99fc",
+  "downloadUrls": {
+    "mobile": "https://walletconnect.com/",
+    "qrCode": "https://walletconnect.com/"
+  },
+  "icon": "/assets/wallets/walletconnect/wallet.svg"
+}

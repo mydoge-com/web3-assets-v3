@@ -1,0 +1,18 @@
+{
+  "id": "subwallet",
+  "name": "SubWallet",
+  "namespace": "SubWallet",
+  "rdns": "app.subwallet",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=app.subwallet.mobile",
+    "ios": "https://apps.apple.com/us/app/subwallet-polkadot-wallet/id1633050285",
+    "mobile": "https://www.subwallet.app/download",
+    "qrCode": "https://www.subwallet.app/download",
+    "chrome": "https://chrome.google.com/webstore/detail/subwallet-polkadot-wallet/onhogfjeacnfoofkfgppdlbmlmnplgbn",
+    "edge": "https://chrome.google.com/webstore/detail/subwallet-polkadot-wallet/onhogfjeacnfoofkfgppdlbmlmnplgbn",
+    "firefox": "https://addons.mozilla.org/en-US/firefox/addon/subwallet/",
+    "browserExtension": "https://www.subwallet.app/download"
+  },
+  "icon": "/assets/wallets/sub/wallet.svg"
+}

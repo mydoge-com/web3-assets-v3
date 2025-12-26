@@ -1,0 +1,15 @@
+{
+  "id": "abwallet",
+  "name": "ABWallet",
+  "namespace": "abwallet.ethereum",
+  "rdns": "org.ab",
+  "iconBackground": "#2b6be3",
+  "mobileUserAgent": "ABWallet",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=org.ab.abwallet.android.release",
+    "ios": "https://apps.apple.com/us/app/ab-wallet/id6745787849",
+    "mobile": "https://www.ab.org/zh/abwallet/",
+    "qrCode": "https://www.ab.org/zh/abwallet/"
+  },
+  "icon": "/assets/wallets/ab/wallet.svg"
+}

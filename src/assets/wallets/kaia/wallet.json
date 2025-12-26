@@ -1,0 +1,20 @@
+{
+  "id": "kaia",
+  "name": "Kaia Wallet",
+  "namespace": "klaytn",
+  "iconBackground": "#fff",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=io.klutch.wallet",
+    "ios": "https://apps.apple.com/us/app/kaia-wallet/id6502896387",
+    "mobile": "https://app.kaiawallet.io",
+    "qrCode": "https://app.kaiawallet.io",
+    "chrome": "https://chromewebstore.google.com/detail/kaia-wallet/jblndlipeogpafnldhgmapagcccfchpi",
+    "browserExtension": "https://app.kaiawallet.io"
+  },
+  "mobile": {
+    "uriTemplates": {
+      "default": "kaikas://walletconnect?uri={uri}"
+    }
+  },
+  "icon": "/assets/wallets/kaia/wallet.svg"
+}

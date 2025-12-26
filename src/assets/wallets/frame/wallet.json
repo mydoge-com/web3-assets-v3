@@ -1,0 +1,12 @@
+{
+  "id": "frame",
+  "name": "Frame",
+  "namespace": "",
+  "rdns": "sh.frame",
+  "flag": "isFrame",
+  "iconBackground": "#121C20",
+  "downloadUrls": {
+    "browserExtension": "https://frame.sh/"
+  },
+  "icon": "/assets/wallets/frame/wallet.svg"
+}

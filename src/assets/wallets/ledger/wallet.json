@@ -1,0 +1,23 @@
+{
+  "id": "ledger",
+  "name": "Ledger",
+  "namespace": "",
+  "iconAccent": "#000",
+  "iconBackground": "#000",
+  "downloadUrls": {
+    "android": "https://play.google.com/store/apps/details?id=com.ledger.live",
+    "ios": "https://apps.apple.com/us/app/ledger-live-web3-wallet/id1361671700",
+    "mobile": "https://www.ledger.com/ledger-live",
+    "qrCode": "https://r354.adj.st/?adj_t=t2esmlk",
+    "macos": "https://www.ledger.com/ledger-live/download",
+    "windows": "https://www.ledger.com/ledger-live/download",
+    "linux": "https://www.ledger.com/ledger-live/download",
+    "desktop": "https://www.ledger.com/ledger-live"
+  },
+  "icon": "/assets/wallets/ledger/wallet.svg",
+  "mobile": {
+    "uriTemplates": {
+      "android": "{uri}"
+    }
+  }
+}
