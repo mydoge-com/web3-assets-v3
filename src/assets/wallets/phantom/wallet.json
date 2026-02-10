@@ -18,7 +18,7 @@
   },
   "mobile": {
     "deeplinkTemplate": {
-      "deeplink": "https://phantom.app/ul/v1/connect?app_url={dappUrl}"
+      "deeplink": "https://phantom.app/ul/browse/{dappUrl}?ref={dappUrl}"
     }
   },
   "icon": "/assets/wallets/phantom/wallet.svg"
