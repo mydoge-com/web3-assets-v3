@@ -1,6 +1,7 @@
 import { describe, it, expect } from "vitest";
 import { GET } from "../chains/route";
 import { NextRequest } from "next/server";
+import type { ChainConfig } from "@/types/chain";
 
 describe("GET /api/chains", () => {
   it("should return all chains without filter", async () => {
@@ -22,7 +23,7 @@ describe("GET /api/chains", () => {
     expect(response.status).toBe(200);
     expect(data.success).toBe(true);
     if (data.data.length > 0) {
-      expect(data.data.every((chain: any) => chain.chainId.startsWith("eip155:"))).toBe(true);
+      expect(data.data.every((chain: ChainConfig) => chain.chainId.startsWith("eip155:"))).toBe(true);
     }
   });
 
@@ -34,7 +35,7 @@ describe("GET /api/chains", () => {
     expect(response.status).toBe(200);
     expect(data.success).toBe(true);
     if (data.data.length > 0) {
-      expect(data.data.every((chain: any) => chain.chainId === "eip155:1")).toBe(true);
+      expect(data.data.every((chain: ChainConfig) => chain.chainId === "eip155:1")).toBe(true);
     }
   });
 });
