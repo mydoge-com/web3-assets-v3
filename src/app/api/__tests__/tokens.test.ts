@@ -1,6 +1,7 @@
 import { describe, it, expect } from "vitest";
 import { GET } from "../tokens/route";
 import { NextRequest } from "next/server";
+import type { TokenConfig } from "@/types/token";
 
 describe("GET /api/tokens", () => {
   it("should return all tokens without filter", async () => {
@@ -22,7 +23,7 @@ describe("GET /api/tokens", () => {
     expect(response.status).toBe(200);
     expect(data.success).toBe(true);
     if (data.data.length > 0) {
-      expect(data.data.every((token: any) => token.chainId.startsWith("eip155:"))).toBe(true);
+      expect(data.data.every((token: TokenConfig) => token.chainId.startsWith("eip155:"))).toBe(true);
     }
   });
 
@@ -34,7 +35,7 @@ describe("GET /api/tokens", () => {
     expect(response.status).toBe(200);
     expect(data.success).toBe(true);
     if (data.data.length > 0) {
-      expect(data.data.every((token: any) => token.chainId === "eip155:1")).toBe(true);
+      expect(data.data.every((token: TokenConfig) => token.chainId === "eip155:1")).toBe(true);
     }
   });
 });
