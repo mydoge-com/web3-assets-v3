@@ -1,8 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getChains } from "@/lib/config-loader";
 
-export const runtime = "edge";
-
 /**
  * OPTIONS /api/chains - Handle CORS preflight
  */

@@ -1,8 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getTokens } from "@/lib/config-loader";
 
-export const runtime = "edge";
-
 /**
  * OPTIONS /api/tokens - Handle CORS preflight
  */
