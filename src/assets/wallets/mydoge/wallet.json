@@ -8,6 +8,11 @@
     "chrome": "https://chromewebstore.google.com/detail/mydoge-dogecoin-wallet/mljponncmhdlacmjbophphkbgcgjdnff",
     "browserExtension": "https://www.mydoge.com/"
   },
+  "mobile": {
+    "deeplinkTemplate": {
+      "deeplink": "mydoge://dapp?url={dappUrl}"
+    }
+  },
   "solana": {
     "namespace": "mydoge.solana"
   },
